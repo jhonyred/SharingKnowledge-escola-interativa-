@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "119673863676",
+    "project_id": "sharing-knowledge-database",
+    "storage_bucket": "sharing-knowledge-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119673863676:android:6ba6c986ea5ff21dd34679",
+        "android_client_info": {
+          "package_name": "ppgia.escola_interativa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119673863676-bme7ico6hb43j9llji70aco9vgp919p8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWJ22YLfuvlfzmOjk0qAN5VX8QvltdkKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119673863676-bme7ico6hb43j9llji70aco9vgp919p8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
