@@ -20,6 +20,13 @@ Este app também pode ser utilizado por professores para compartilhamento de con
 [![Assista o vídeo]](https://youtu.be/wz2T03cU3d8)
 
 
+# Vídeo Propaganda:
+
+
+[![Assista o vídeo]](https://youtu.be/pLQYno9m728)
+
+
+
 # Fluxograma:
 
 <p align="center">
