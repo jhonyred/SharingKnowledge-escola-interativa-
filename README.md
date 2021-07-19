@@ -15,11 +15,18 @@ Este app também pode ser utilizado por professores para compartilhamento de con
 	* Pesquisa por Autor.
 
 
+# Fluxograma:
+
+
+
 
 # UPDATE
+
 Projeto sofrerá atualizações a medida em que o software for desenvolvido.
 
-xxxxxxxxxxxx
+<p align="center">
+  <img src="designer_de_interface/APP SharingKnowledge.png" alt=”some text” width=800 height=400>
+</p>
 
 
 # LOGO
