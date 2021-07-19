@@ -17,7 +17,7 @@ Este app também pode ser utilizado por professores para compartilhamento de con
 
 # Vídeo de Apresentação:
 
-[![Watch the video]](https://youtu.be/wz2T03cU3d8)
+[![Assista o vídeo]](https://youtu.be/wz2T03cU3d8)
 
 
 # Fluxograma:
