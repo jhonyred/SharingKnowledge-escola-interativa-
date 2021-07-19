@@ -53,7 +53,9 @@ xxxxxxxxxxxx
 
 # NAVEGAÇÃO
 
-![image](https://user-images.githubusercontent.com/80686393/115023551-55b25b80-9e95-11eb-9fd7-c22f32c13245.png)
+<p align="center">
+  <img src="designer_de_interface/Navegação.png" alt=”some text” width=400 height=200>
+</p>
 
 ## Protótipo
 
