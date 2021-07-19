@@ -24,13 +24,16 @@ xxxxxxxxxxxx
 
 ## Sharing Knowledge
 
+<p align="center">
+  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="designer_de_interface/LOGO Sharing Knowlege.png" alt=”some text” width=300 height=200>
+</p>
 
-![LOGO Sharing Knowlege](https://user-images.githubusercontent.com/80686393/126087346-f4f10059-afde-4323-b743-a772513dc568.png)
 
 
 ## Campanha Sharing Knowledge
 
-![image](https://user-images.githubusercontent.com/80686393/115022736-2c450000-9e94-11eb-8ed5-f44f24498a4a.png)
+<img src="![image]https://user-images.githubusercontent.com/80686393/115022736-2c450000-9e94-11eb-8ed5-f44f24498a4a.png" width="200 height="200">
 
 # INTERFACE
 
