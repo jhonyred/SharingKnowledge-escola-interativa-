@@ -3,14 +3,16 @@
 ## Acerca
 
 
-Este Aplicativo tem a função de ajudar aos alunos do ensino médio, técnico e superior a compartilhar seus materiais impressos utilizados no semestre anterior.
+Este Aplicativo tem a função de ajudar aos alunos do ensino médio, técnico e superior a compartilhar seus materiais didáticos utilizados no semestre anterior e ou atual.
+Este app também pode ser utilizado por professores para compartilhamento de conteúdo com sua turma vigente.
 
 
 # Funcionalidades: 
         * Criação e edição de anúncios;
         * Cadastro de instituições de ensino; 
         * Cadastro de usuários;
-        * Pesquisa por instituição de ensino.
+        * Pesquisa por conteúdo;
+	* Pesquisa por Autor.
 
 
 
