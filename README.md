@@ -24,7 +24,8 @@ xxxxxxxxxxxx
 
 ## Sharing Knowledge
 
-<img src="designer_de_interface/LOGO Sharing Knowlege.png" alt=”some text” width=300 height=200>
+
+![LOGO Sharing Knowlege](https://user-images.githubusercontent.com/80686393/126087346-f4f10059-afde-4323-b743-a772513dc568.png)
 
 
 ## Campanha Sharing Knowledge
