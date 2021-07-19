@@ -44,6 +44,7 @@ xxxxxxxxxxxx
   <img src="designer_de_interface/abertura.png" alt=”some text” width=200 height=400>
   <img src="designer_de_interface/tela 2.png" alt=”some text” width=200 height=400>
   <img src="designer_de_interface/cadastro.png" alt=”some text” width=200 height=400>
+  <img src="designer_de_interface/cadastro2.png" alt=”some text” width=200 height=400>
   <img src="designer_de_interface/entrar.png" alt=”some text” width=200 height=400>
   <img src="designer_de_interface/home.png" alt=”some text” width=200 height=400>
   <img src="designer_de_interface/busca.png" alt=”some text” width=200 height=400>
