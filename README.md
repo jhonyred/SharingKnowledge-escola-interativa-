@@ -41,12 +41,13 @@ xxxxxxxxxxxx
 <p align="center">
   <img src="designer_de_interface/abertura.png" alt=”some text” width=200 height=400>
   <img src="designer_de_interface/tela 2.png" alt=”some text” width=200 height=400>
-  <img src="designer_de_interface/abertura.png" alt=”some text” width=200 height=400>
-  <img src="designer_de_interface/abertura.png" alt=”some text” width=200 height=400>
-  <img src="designer_de_interface/abertura.png" alt=”some text” width=200 height=400>
-  <img src="designer_de_interface/abertura.png" alt=”some text” width=200 height=400>
-  <img src="designer_de_interface/abertura.png" alt=”some text” width=200 height=400>
-  <img src="designer_de_interface/abertura.png" alt=”some text” width=200 height=400>
+  <img src="designer_de_interface/cadastro.png" alt=”some text” width=200 height=400>
+  <img src="designer_de_interface/entrar.png" alt=”some text” width=200 height=400>
+  <img src="designer_de_interface/home.png" alt=”some text” width=200 height=400>
+  <img src="designer_de_interface/busca.png" alt=”some text” width=200 height=400>
+  <img src="designer_de_interface/compartilhar.png" alt=”some text” width=200 height=400>
+  <img src="designer_de_interface/minhas publicações.png" alt=”some text” width=200 height=400>
+  <img src="designer_de_interface/perfil.png" alt=”some text” width=200 height=400>
 </p>
 
 
