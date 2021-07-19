@@ -25,7 +25,7 @@ xxxxxxxxxxxx
 ## Sharing Knowledge
 
 <p align="center">
-  <img src="designer_de_interface/LOGO Sharing Knowlege.png" alt=”some text” width=400 height=200>
+  <img src="designer_de_interface/LOGO Sharing Knowlege.png" alt=”some text” width=300 height=200>
 </p>
 
 
@@ -33,7 +33,7 @@ xxxxxxxxxxxx
 ## Campanha Sharing Knowledge
 
 <p align="center">
-  <img src="designer_de_interface/camapnha Sharing Knowlege.png" alt=”some text” width=300 height=200>
+  <img src="designer_de_interface/camapnha Sharing Knowlege.png" alt=”some text” width=400 height=200>
 </p>
 
 # INTERFACE
