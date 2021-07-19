@@ -24,6 +24,11 @@ xxxxxxxxxxxx
 
 ## Sharing Knowledge
 
+<p align="center">
+  <img src="designer_de_interface/LOGO Sharing Knowlege.png" alt=”some text” width=300 height=200>
+</p>
+
+
 
 ## Campanha Sharing Knowledge
 
