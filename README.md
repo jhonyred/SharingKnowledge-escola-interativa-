@@ -25,7 +25,7 @@ xxxxxxxxxxxx
 ## Sharing Knowledge
 
 <p align="center">
-  <img src="designer_de_interface/LOGO Sharing Knowlege.png" alt=”some text” width=300 height=200>
+  <img src="designer_de_interface/LOGO Sharing Knowlege.png" alt=”some text” width=300 height=300>
 </p>
 
 
@@ -54,7 +54,7 @@ xxxxxxxxxxxx
 # NAVEGAÇÃO
 
 <p align="center">
-  <img src="designer_de_interface/Navegação.png" alt=”some text” width=400 height=200>
+  <img src="designer_de_interface/Navegação.png" alt=”some text” width=400 height=300>
 </p>
 
 ## Protótipo
