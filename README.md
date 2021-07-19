@@ -38,17 +38,17 @@ xxxxxxxxxxxx
 
 # INTERFACE
 
+<p align="center">
+  <img src="designer_de_interface/abertura.png" alt=”some text” width=200 height=400>
+  <img src="designer_de_interface/tela 2.png" alt=”some text” width=200 height=400>
+  <img src="designer_de_interface/abertura.png" alt=”some text” width=200 height=400>
+  <img src="designer_de_interface/abertura.png" alt=”some text” width=200 height=400>
+  <img src="designer_de_interface/abertura.png" alt=”some text” width=200 height=400>
+  <img src="designer_de_interface/abertura.png" alt=”some text” width=200 height=400>
+  <img src="designer_de_interface/abertura.png" alt=”some text” width=200 height=400>
+  <img src="designer_de_interface/abertura.png" alt=”some text” width=200 height=400>
+</p>
 
-![image](https://user-images.githubusercontent.com/80686393/115022998-8f369700-9e94-11eb-9212-86c4f5d1b812.png)
-
-![image](https://user-images.githubusercontent.com/80686393/115023185-d02eab80-9e94-11eb-90dc-abe81bf6fc18.png)
-
-![image](https://user-images.githubusercontent.com/80686393/115023149-c311bc80-9e94-11eb-9cb0-315ae1c6017a.png)
-
-![image](https://user-images.githubusercontent.com/80686393/115023346-0a984880-9e95-11eb-8a9d-c59c5a349ca6.png)
-
-
-![image](https://user-images.githubusercontent.com/80686393/115023207-d886e680-9e94-11eb-9c08-480da9f7a5b6.png)
 
 # NAVEGAÇÃO
 
