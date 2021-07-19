@@ -25,14 +25,16 @@ xxxxxxxxxxxx
 ## Sharing Knowledge
 
 <p align="center">
-  <img src="designer_de_interface/LOGO Sharing Knowlege.png" alt=”some text” width=300 height=200>
+  <img src="designer_de_interface/LOGO Sharing Knowlege.png" alt=”some text” width=400 height=200>
 </p>
 
 
 
 ## Campanha Sharing Knowledge
 
-<img src="![image]https://user-images.githubusercontent.com/80686393/115022736-2c450000-9e94-11eb-8ed5-f44f24498a4a.png" width="200 height="200">
+<p align="center">
+  <img src="designer_de_interface/camapnha Sharing Knowlege.png" alt=”some text” width=300 height=200>
+</p>
 
 # INTERFACE
 
