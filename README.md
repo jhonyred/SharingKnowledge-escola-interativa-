@@ -54,7 +54,7 @@ xxxxxxxxxxxx
 # NAVEGAÇÃO
 
 <p align="center">
-  <img src="designer_de_interface/Navegação.png" alt=”some text” width=600 height=300>
+  <img src="designer_de_interface/Navegação.png" alt=”some text” width=800 height=400>
 </p>
 
 ## Protótipo
